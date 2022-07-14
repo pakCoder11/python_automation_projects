@@ -1,0 +1,5 @@
+{
+	"chromedriver_path" : ".\\driver\\chromedriver_102.exe",
+	"project_link" : "https://www.pinksale.finance/launchpad/0x7fb8a815330ef8db151d20900ba9c999ba257871?chain=BSC",
+	"windows_per_thread" : "1"
+}
