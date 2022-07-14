@@ -1,0 +1,11 @@
+This is a WhatsApp Auto-messanging script built-in Python 3.10, it is used to send messages to bulk users on WhatsApp. You can send 1000s messages at a time using this bot. Because the key advantage of sending many messages is, Software doesn't used any type of API. It's a complete automative process. First user create a csv file called info.csv contains two columns 'contacts' and 'messages'. The script will load data from info.csv and send message to WhatsApp users one by one. 
+
+This application was useful for Real Estate Agents, NFT Seller communities, Digital Marketers etc. All, you need a basic knowledge of Python to run this script on your Windows PC/Laptop. I can also generate .exe file for this script through pyinstaller. 
+
+I am working on similair projects to make automation easier for my users, AI is the future of the world, I need your support to solve the problems of modern world. 
+
+CONTACT ME:- 
+Like my Facebook Page https://www.facebook.com/khanfreelancingservices/ 
+Connect to me on LinkedIn https://www.linkedin.com/in/muhammad-saad-khan6031/
+Find me on Upwork https://www.upwork.com/freelancers/~0108b31cf57f573ea3
+Follow me on Twitter https://twitter.com/saadkhan6031
