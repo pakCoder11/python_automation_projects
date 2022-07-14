@@ -1,0 +1,6 @@
+{
+	"chromedriver_path" : ".\\driver\\chromedriver_102.exe",
+	"comments_limit" : "25",
+	"retweet" : "False",
+	"like" : "False"
+}
